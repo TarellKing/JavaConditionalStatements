@@ -1,4 +1,4 @@
-# JavaConditionalStatements
+# Java Conditional Statements
 The provided code is a Java program that implements the FizzBuzz game. It takes a number as input and checks if it is divisible by 5, divisible by 3, or both.
 
 If the number is divisible by both 5 and 3, it prints "FizzBuzz!".
